@@ -1,0 +1,1 @@
+A project developed for the university of colorado assignment, you are allowed to copy this file for learning purpose, but this code is not designed to be efficient or to run and I'm not responsible for any misuse of the code.
